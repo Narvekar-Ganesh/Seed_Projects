@@ -13,5 +13,4 @@ public class SquareandCudeCalculator {
     public void  cude(){
         System.out.println( "Cube of number "+ a*a*a);
     }
-
 }
