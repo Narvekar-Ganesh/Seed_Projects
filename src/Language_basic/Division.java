@@ -13,7 +13,7 @@ public class Division {
     public void todivisor (){
         qua= a/ b;
         rem=a%b;
-        System.out.println("Quotient is :" +qua+  "Reminder is"+ rem);
+        System.out.println("Quotient is :" +qua+  "\nReminder is :"+ rem);
     }
 
 }
