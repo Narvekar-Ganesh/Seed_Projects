@@ -16,6 +16,7 @@ public class GreadCheker {
             }
             case 8  : {
                 System.out.println("B grade");
+
                 break;
             }
 
