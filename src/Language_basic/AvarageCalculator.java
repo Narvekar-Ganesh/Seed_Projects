@@ -15,5 +15,8 @@ public class AvarageCalculator {
         System.out.println("Average of three number is "+result);
     }
 
-
+    public static void main(String args[]){
+        AvarageCalculator num = new AvarageCalculator(12,12.3f,4.5f);
+        num.avarage();
+    }
 }
