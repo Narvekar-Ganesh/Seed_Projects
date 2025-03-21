@@ -1,4 +1,4 @@
-package dms_Lops;
+package dms.loops;
 
 public class NumberPrinter {
     public static void  main(String args[]){
